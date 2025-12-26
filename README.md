@@ -1,4 +1,4 @@
-<h1 align="center">People Clustering</h1>
+<h1 align="center">AWS Images - People Clustering</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
