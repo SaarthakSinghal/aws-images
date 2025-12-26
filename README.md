@@ -35,7 +35,7 @@ This project is built with:
 - Client-side caching for improved performance
 - Photo lightbox for viewing details
 
-## Getting Started(Frontend)
+## Getting Started
 
 ### Prerequisites
 
