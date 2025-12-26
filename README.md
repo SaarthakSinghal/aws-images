@@ -9,11 +9,7 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"> 
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
-  
 </p>
-
-  ![AmazonDynamoDB]()
-  ![Shadcn/ui]()  
 
 A React-based web application for analyzing and clustering faces from photo collections using AWS Rekognition.
 
