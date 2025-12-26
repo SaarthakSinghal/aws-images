@@ -25,3 +25,8 @@ dist-ssr
 
 # Custom
 .env
+.venv
+put.py
+crop_faces.py
+face_bound.json
+public
