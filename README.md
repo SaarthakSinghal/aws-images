@@ -6,9 +6,9 @@
 </p>
   
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-s3-grey?style=for-the-badge&color=2F771B"> 
+  <img src="https://img.shields.io/badge/aws-dynamo_db-grey?style=for-the-badge&color=3C49CC">
+  <img src="https://img.shields.io/badge/aws-rekognition-grey?style=for-the-badge&color=1E7A66">
 </p>
 
 A React-based web application for analyzing and clustering faces from photo collections using AWS Rekognition.
