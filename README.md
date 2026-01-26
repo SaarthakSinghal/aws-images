@@ -13,6 +13,11 @@
 
 A React-based web application for analyzing and clustering faces from photo collections using AWS Rekognition.
 
+<p align="middle">
+  <img src="./images/ui-people-page.png" width="49%">
+  <img src="./images/ui-person-appearances-page.png" width="49%">
+</p>
+
 ## Technologies
 
 This project is built with:
