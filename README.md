@@ -42,6 +42,10 @@ This project is built with:
 
 ## Getting Started
 
+### Documentation
+
+Step by step instructions to build the project : [beetroot-docs](https://github.com/saarthaksinghal/beetroot-docs)
+
 ### Prerequisites
 
 - Node.js & npm installed
