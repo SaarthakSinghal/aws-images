@@ -10,7 +10,7 @@ s3 = boto3.client("s3")
 ddb = boto3.resource("dynamodb")
 
 # --- Env vars ---
-THUMBS_BUCKET = os.environ.get("THUMBS_BUCKET", "photo-clone-thumbs")
+THUMBS_BUCKET = os.environ.get("THUMBS_BUCKET", "beetroot-thumbs")
 PRESIGN_EXPIRES = int(os.environ.get("PRESIGN_EXPIRES", 3600))
 
 # --- DynamoDB tables ---

@@ -21,10 +21,10 @@ OCCURRENCES_TABLE = os.environ.get("OCCURRENCES_TABLE", "Occurrences")
 
 RAW_PREFIX = os.environ.get("RAW_PREFIX", "photos-raw/")
 
-THUMBS_BUCKET = os.environ.get("THUMBS_BUCKET", "photo-clone-thumbs")
+THUMBS_BUCKET = os.environ.get("THUMBS_BUCKET", "beetroot-thumbs")
 THUMBS_PREFIX = os.environ.get("THUMBS_PREFIX", "faces-thumbs/")
 
-COLLECTION_ID = os.environ.get("REKOGNITION_COLLECTION_ID", "photo-clone-v2")
+COLLECTION_ID = os.environ.get("REKOGNITION_COLLECTION_ID", "beetroot-faces")
 THRESHOLD = float(os.environ.get("FACE_MATCH_THRESHOLD", "95"))
 
 photos_table = ddb.Table(PHOTOS_TABLE)
